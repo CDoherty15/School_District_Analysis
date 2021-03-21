@@ -17,16 +17,16 @@ Module 4 - PyCitySchools with Pandas
 ### School Summary
 Here we see the school summary before and after removing the Thomas High School 9th graders. 
 ##### Old School Summary 
-![image](https://user-images.githubusercontent.com/79118630/111917755-088ac780-8a58-11eb-938d-e7134c59843c.png)
-##### New School Summary 
 ![image](https://user-images.githubusercontent.com/79118630/111917757-0de81200-8a58-11eb-921f-d1076ffda314.png)
+##### New School Summary 
+![image](https://user-images.githubusercontent.com/79118630/111917755-088ac780-8a58-11eb-938d-e7134c59843c.png)
 
 - There isn’t much to compare since we only changed one school’s values. There is a lot of information and stuff to unpack with these two data frames, which will be discThe new values for Thomas High School will be discussed next.
 ### Thomas High School’s performance
 ##### Old Thomas High School Summary 
-![image](https://user-images.githubusercontent.com/79118630/111917766-1fc9b500-8a58-11eb-8d2a-c95b6dc5d1ea.png)
-##### New Thomas High School Summary
 ![image](https://user-images.githubusercontent.com/79118630/111917764-193b3d80-8a58-11eb-8225-eff19880337e.png)
+##### New Thomas High School Summary
+![image](https://user-images.githubusercontent.com/79118630/111917766-1fc9b500-8a58-11eb-8d2a-c95b6dc5d1ea.png)
 
 - We originally had 1635 students, we removed the 461 9th graders and get 1174 students. The biggest change is the per student budget, which is expected since the total school budget is not changed. 
 - This time there is a variety of changes with the scores and percentages. Average math score stays the same, while the average reading score increases by 0.1. When compared to the percentages of passing math and reading, the percentage of passing math decreased by 0.1 and the reading percentage decreased by 0.3 even when the score went up. Then the overall passing percentage went down by 0.3. 
