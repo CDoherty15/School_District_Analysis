@@ -21,7 +21,7 @@ Here we see the school summary before and after removing the Thomas High School 
 ##### New School Summary 
 ![image](https://user-images.githubusercontent.com/79118630/111917755-088ac780-8a58-11eb-938d-e7134c59843c.png)
 
-- There isn’t much to compare since we only changed one school’s values. There is a lot of information and stuff to unpack with these two data frames, which will be discThe new values for Thomas High School will be discussed next.
+- There isn’t much to compare since we only changed one school’s values. The Thomas High School analysis is below. 
 ### Thomas High School’s performance
 ##### Old Thomas High School Summary 
 ![image](https://user-images.githubusercontent.com/79118630/111917764-193b3d80-8a58-11eb-8225-eff19880337e.png)
@@ -37,9 +37,9 @@ Here we see the school summary before and after removing the Thomas High School 
 ##### New Math and Reading Scores
 ![image](https://user-images.githubusercontent.com/79118630/111917794-3839cf80-8a58-11eb-9b7f-213c55c163ed.png) ![image](https://user-images.githubusercontent.com/79118630/111917798-3c65ed00-8a58-11eb-930b-2523592d31b0.png)
 
-- Since we only removed 1 grade from 1 school, there aren’t going to be any real changes between the previous and new charts. What this does however, confirms that we have removed the Thomas High School 9th graders from the analysis, as noted by the “nan” in the 9th grade column next to Thomas High School. 
-- One thing to that Maria should point out when presenting data is that all of the schools tend to have about the same average score for all grade levels
-
+- Since we only removed 1 grade from 1 school, there aren’t going to be any real changes between the previous and new charts, but confirms that we have removed the Thomas High School 9th graders from the analysis, as noted by the “nan” in the 9th grade column next to Thomas High School. 
+- One thing to that Maria should point out when presenting data is that all of the schools tend to have about the same average score for all grade levels. Which is good and bad; good cause as you get older, classes tend to get harder and at least the schools are staying consistent in teaching; bad cause at first glance, it shows that students aren't typically improving, they are just plateauing and staying stagnant. 
+- Maria should also mention that for all the grades for all the schools for both math and reading, there is no value below 75. We can assume that these scores are out of 100, so these schools are averaging passing scores. 
 #### Scores by school spending
 ##### Old Scores by school spending
 ![image](https://user-images.githubusercontent.com/79118630/111917807-48ea4580-8a58-11eb-864f-39a524fcace8.png)
@@ -67,8 +67,13 @@ Here we see the school summary before and after removing the Thomas High School 
 - Similar to comparing the school sizes, this time, there wasn’t any significant or major changes when removing the Thomas High School data. We can make a strong estimation, that the 9th grade students at Thomas High School got similar scores to other charter school students. 
 
 ## Summary
-- There were a couple major changes in the updated school district analysis when removing the
-Thomas High School 9th graders.
-### Scores by school spending 
+- There were a couple major changes in the updated school district analysis when removing the Thomas High School 9th graders. The biggest and most notable change is the score by school spending measurement. 
+##### Scores by school spending 
 - Looking at the scores and percentages by school spending per student might not be the best method for evaluating schools during this presentation of the schools in the area. School size effects when school boards discussing budgeting for the school year, when we remove the student we clearly see that the per student budget dramatically increases. This change actually pushes Thomas High School as an outlier in terms of per student budget. When Maria presents the data about scores by school spending, she needs to decide whether or not to keep or drop the Thomas High School data. We can see in that the values for the “$675<” is just the Thomas High School data because it is the same values as the values in the per school summary data frame. If Maria somehow was able to obtain a different total school budget that would be adjusted for a new student count, then it would be perfectly fine to include this data. But since that is unlikely and unprobeable, Maria should make sure to note that this form of evaluation may not be completely accurate, particularly for the $630 – 644 range. 
+##### Thomas High School passing percentages
+- After removing the 9th graders, Thomas High School's average math score stayed the same and the average reading score actualy increased, however, both passing percentages decreased and the overall passing percentage decreased. We removed these students because of potential academic dishonesty, well this could be a point of emphases for Maria. When removing the 9th grade class, the school had less students pass each subject and less students pass overall, this can not confirm of cheating but makes the grade level at question more suspicious. 
+##### Overall Passing percentage
+- Thomas High School's overall passing percentage decreased from 90.9 to 90.6. Thomas High School was the second highest overall performing school, with the decrease in overall passing percentage, they are still second, but now they are tied with Griffin High School and Wilson High School. Being tied for 2nd is not a big deal, and really its still an accomplishment, but it turns into a major change when you could advertise and hold the accolade as holding the 2nd overall performing spot.   
+##### Scores by grade
+- A major change between the scores is that now the 9th grade average math and reading scores for Thomas High School are now null. This changes the way on how Maria will present the 9th grade data and also it will affect how the school board will view and adjust for this class as they move on through high school.
 
