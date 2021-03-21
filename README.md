@@ -9,9 +9,9 @@ Module 4 - PyCitySchools with Pandas
 - Since we omitted a whole grade from a school, some of the results have changed. 
 ### District summary
 ##### Old District Summary 
-![image](https://user-images.githubusercontent.com/79118630/111917655-a16d1300-8a57-11eb-87f7-00df6abac07d.png)
-##### New District Summary
 ![image](https://user-images.githubusercontent.com/79118630/111917659-a5993080-8a57-11eb-80c5-9ebffc0644cd.png)
+##### New District Summary
+![image](https://user-images.githubusercontent.com/79118630/111917655-a16d1300-8a57-11eb-87f7-00df6abac07d.png)
  
 - School count and total budget are not effected since we are only removing the Thomas High School 9th grade data, and not the whole school. One thing that sticks out is that the new average math score and all the percentages decreased. What is interesting is that the average reading score did not change but the passing reading percentage went down by 0.3, which was the biggest change out of the 5 score values. This is interesting, that the average reading score change was so minimal that when rounded there was no change, but this changed how many people passed reading. Another note is that the percentage of passing math also decreased, by 0.2. But the percentage of overall passing went down by only 0.1. 
 ### School Summary
